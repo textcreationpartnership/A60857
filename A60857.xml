@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks upon the present state of the East India Company's affairs with reasons for the speedy establishing a new company to regain that almost lost trade, which is computed to be in value and profit one full sixth part of the trade of the whole kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60857</idno>
+            <idno type="STC">Wing S4606</idno>
+            <idno type="STC">ESTC R37575</idno>
+            <idno type="EEBO-CITATION">16976029</idno>
+            <idno type="OCLC">ocm 16976029</idno>
+            <idno type="VID">105587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105587)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks upon the present state of the East India Company's affairs with reasons for the speedy establishing a new company to regain that almost lost trade, which is computed to be in value and profit one full sixth part of the trade of the whole kingdom.</title>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Incomplete: all after p.4 lacking in filmed copy. Best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Great Britain --  Commerce --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105587:1"/>
+            <!-- PDF PAGE 52 -->
+            <p>SOME REMARKS Upon the PRESENT STATE OF THE <hi>Eaſt-India Company's Affairs:</hi> WITH REASONS For the ſpeedy Eſtabliſhing A New Company, To Regain that almoſt Loſt TRADE, Which is Computed to be in Value and Profit one full Sixth Part of the Trade of the whole Kingdom.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the YEAR, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105587:2"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="3" facs="tcp:105587:2"/>
+            <!-- PDF PAGE 53 -->
+            <head>SOME REMARKS Upon the PRESENT STATE OF THE <hi>Eaſt-India Company Affairs,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not here go about to rake into all the <hi>Miſcarriages</hi> of the <hi>Eaſt-India Company,</hi> and conſequently <hi>Misfortunes</hi> of the <hi>Nation,</hi> but only touch upon, and date them, from the time that the <hi>Stock</hi> and Sir <hi>Joſiah Childe</hi> were at their greateſt height and proſperity, in the Year 1682. When on a ſudden he forſook all his old Friends that firſt introduc'd him, with great difficulty, into the <hi>Committee,</hi> and afterwards rais'd him to the Honor of <hi>Governor,</hi> throwing them totally out of the Management, as Sir <hi>Samuel Bernardiſton,</hi> Sir <hi>John Mordent,</hi> Sir <hi>Matthew Andrews,</hi> Sir <hi>Humphrey Edwin, Thomas Papillon, Charles Thorold, John Page,</hi> and <hi>Tho. Canham,</hi> Eſquires, for not yielding and complying with his <hi>new Projects,</hi> which were foreſeen by his ſaid Friends and others, to be <hi>fatal</hi> and <hi>deſtructive:</hi> But he was deaf to their Advice, betaking himſelf to <hi>new Counſellors</hi> that were very ignorant in the Trade. And having ſtrengthned himſelf with his <hi>new Party,</hi> he proceeded afterwards to caſt off Sir <hi>John Bankes,</hi> Sir <hi>Jeremy Sambrooke,</hi> Sir <hi>Tho. Daval,</hi> Major <hi>Robert Thomſon, Edward Rudge,</hi> and Coll. <hi>Clarke,</hi> with others, who had <hi>long Experience</hi> in that Trade, ſome of whom went too far with him, and many of them did afterwards fall under his <hi>Miſ-repreſentation at Court</hi> as be<g ref="char:EOLhyphen"/>ing <hi>Ill-affected to the Government</hi> for <hi>Selling</hi> and <hi>Leſſening their Stocks,</hi> and <hi>not Joyning in Matters that the Law would not juſtifie;</hi> ſo that theſe Gentlemen, or ſo many of them that ſtood in his way, being removed, the <hi>Great Mi<g ref="char:EOLhyphen"/>niſters</hi> and <hi>Chief Men at Court</hi> fell in with Sir <hi>Joſiah,</hi> not doubting, but to
+<pb n="4" facs="tcp:105587:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->have found a ſufficient Fund for carrying on any <hi>publick Deſign</hi> either of <hi>War</hi> or otherwiſe: And by his great <hi>annual Preſents,</hi> he could command both at <hi>Court</hi> and in <hi>Weſtminſter-Hall</hi> what he pleas'd; and thereupon a <hi>great Fleet</hi> was prepared with <hi>Soldiers</hi> and all other <hi>Warlike Preparations;</hi> ſometimes giving out, <hi>It was againſt the Dutch,</hi> which Affair was manag'd and conſult<g ref="char:EOLhyphen"/>ed by Sir <hi>Joſiah</hi> and a private Committee, altho thoſe Worthy Gentlemen of the ſaid Committee often declar'd they knew very little or nothing of what was tranſacted: But in the end, the <hi>hopeful Treaty</hi> that was then on foot in <hi>London</hi> by Commiſſioners appointed from <hi>Holland</hi> for <hi>reſtoring</hi> and <hi>making ſatisfaction for</hi> Bantam <hi>was rejected,</hi> and new Meaſures taken, to the great ſurprize of the <hi>Dutch</hi> Nation, and the conſidering Men amongſt our ſelves, who had any cognizance of the Affair: Till at laſt (Matters being not yet ripe abroad to fall upon the Proteſtants) all this <hi>Warlike Pre<g ref="char:EOLhyphen"/>paration</hi> ended in a War with the Great and Mighty Emperor the <hi>Mogul</hi> and the King of <hi>Syam.</hi>
+            </p>
+            <p>THIS Storm thus falling upon the <hi>Mogul</hi> and the good King of <hi>Syam,</hi> our Ships were imployed in <hi>India</hi> for the <hi>taking and ſeizing of all their, and their Subjects, Ships and Eſtates,</hi> even thoſe in our Ports at <hi>Bombay,</hi> though they had our <hi>Factors Paſſes for ſecurity,</hi> without either <hi>Declaration of War,</hi> or <hi>Demand firſt made,</hi> which hath occaſion'd ſuch a <hi>Confuſion</hi> and <hi>Diſorder</hi> (beſides the <hi>great Diminution of the Nations Honor</hi>) that all our ma<g ref="char:EOLhyphen"/>ny beneficial Settlements are ruin'd, the Fruit of which we had but yet begun to taſte, eſpecially in the Bay of <hi>Bengall,</hi> which is the greateſt and richeſt Province in any known part of the Univerſe, being ſubject to the Nabab or Chief Governor under the <hi>Mogul.</hi> And in the ſpace of about 23 Years, our Trade in that Province alone, hath advanced from 8000 <hi>l.</hi> to upwards of 300000 <hi>l. per annum,</hi> and had not this pernicious War interven'd, it might have been by this time carried on much fur<g ref="char:EOLhyphen"/>ther by a prudent Conduct, to the great Honor and Advantage of the Nation. But when our laſt Advices came from thoſe Parts, by the Ship <hi>Rocheſter,</hi> Affairs were there in greater <hi>Confuſion</hi> and <hi>Diſorder</hi> than ever, oc<g ref="char:EOLhyphen"/>caſion'd by <hi>freſh Deſcents</hi> and <hi>Depredations that had been committed under the conduct of Captain</hi> Heath; ſo that the Breach is now much wider (notwithſtanding at the laſt Seſſions of Parliament, Sir <hi>Joſiah Childe</hi> had the aſſurance to declare at the Bar of the Honorable Houſe, <hi>That a Peace was actually concluded.</hi>
+            </p>
+            <p>THIS being the preſent ſad Condition of that important Trade, which will be irretrievably loſt, if <hi>ſome ſpeedy and proper Remedies be not applied to regain and ſettle it.</hi> 'Tis therefore humbly hoped our <hi>Honorable Repreſenta<g ref="char:EOLhyphen"/>tives</hi> will think it <hi>worthy their Regard:</hi> And the <hi>zealous deſire I have to ſee it thrive and flouriſh, prompts me to offer my private Thoughts</hi> concerning the <hi>moſt ſuitable Methods for the Eſtabliſhing it,</hi> to the Honor and Intereſt of the Nation.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
